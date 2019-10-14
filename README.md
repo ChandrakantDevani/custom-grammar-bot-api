@@ -33,7 +33,7 @@ $ npm install custom-grammar-bot-api --save
 ## Usage
 
 ```js
-const Grammarbot = require('grammarbot');
+const Grammarbot = require('custom-grammar-bot-api');
 
 const bot = new Grammarbot({
   'api_key' : 'YOUR_API_KEY',      // (Optional) defaults to node_default
