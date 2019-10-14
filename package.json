@@ -1,0 +1,11 @@
+{
+  "name": "custom-grammar-bot-api",
+  "version": "1.0.0",
+  "description": "Customer GrammerBot API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chandrakant Devani",
+  "license": "ISC"
+}
